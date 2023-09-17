@@ -1,0 +1,129 @@
+
+[
+    {
+    "name": "coleccion",
+    "imageUrl": "https://github.com/Yolandita13/Challenge-E-commerce.git",
+    "price": "20.00",
+    "descripcion": "Mugs de star wark",
+    "id": 1
+    },
+    {
+    "name": "Cabeza",
+    "imageUrl": "https://github.com/Yolandita13/Challenge-E-commerce.git",
+    "price" : "50.00" ,
+    "descripcion": "Es un accesorio que cumple la funcion de lampara",
+    "id": 2
+    },
+    {
+    "name": "Yoda",
+    "imageUrl": "https://github.com/Yolandita13/Challenge-E-commerce.git",
+    "price" : "25.00",
+    "descripcion": "Tiene 15 cms es de plastico sus articulaciones son estaticas",
+    "id": 3
+    },
+    {
+    "name": "Stormtroopers",
+    "imageUrl": " https://github.com/Yolandita13/Challenge-E-commerce.git",
+    "price" : "40.00",
+    "descripcion": "Mide 30 cms es de platico y su bata es de tela, un articulaciones son moviles",
+    "id": 4
+    },
+    {
+    "name": "Muñeco de coleccion de Yoda",
+    "imageUrl": "https://github.com/Yolandita13/Challenge-E-commerce.git",
+    "price" : "42.00",
+    "descripcion": "Mugs de star wark ",
+    "id": 5
+    },
+    {
+    "name": "Muñeco de coleccion de Darth Vader",
+    "imageUrl": "https://github.com/Yolandita13/Challenge-E-commerce.git",
+    "price": "35.00",
+    "descripcion": "viene sin bateria y con espada",
+    "id": 6
+    },
+    {
+    "name": "Control",
+    "imageUrl": "https://github.com/Yolandita13/Challenge-E-commerce.git",
+    "price" : "60.00",
+    "descripcion": "Control de consola disponible en color blanco",
+    "id": 7 
+    },
+    {
+    "name": "Play Station 5",
+    "imageUrl": "https://github.com/Yolandita13/Challenge-E-commerce.git",
+    "price" : "200.00",
+    "descripcion": "Consola de Nitendo ultima version",
+    "id": 8
+    },
+    {
+    "name": "Consola Antigua",
+    "imageUrl": "https://github.com/Yolandita13/Challenge-E-commerce.git",
+    "price" : "62.00",
+    "descripcion": "Consola de Nitendo se vende aparte los juegos",
+    "id": 9
+    },
+    {
+    "name": "Accesorios",
+    "imageUrl": "https://github.com/Yolandita13/Challenge-E-commerce.git",
+    "price" : "45.00",
+    "descripcion": "Controles para play Station, color disponible en rojo y aguamarina",
+    "id": 10
+        },
+        {
+        "name": "Consola",
+        "imageUrl": "https://github.com/Yolandita13/Challenge-E-commerce.git",
+        "price" : "270.00",
+        "descripcion": "Consola de video juegos de XBOX SERIES X",
+        "id": 11 
+        },
+        {
+        "name": "Jueguitos",
+        "imageUrl": "https://github.com/Yolandita13/Challenge-E-commerce.git",
+        "price": "25.00",
+        "descripcion": "juegos clasicos manuales",
+        "id": 12 
+        },
+        {
+        "name": "Camiseta",
+        "imageUrl": "https://github.com/Yolandita13/Challenge-E-commerce.git",
+        "price" : "30.00",
+        "descripcion":" tallas disponibles M,L,XL",
+        "id": 13
+        },
+        {
+        "name": "Camiseta",
+        "imageUrl": "https://github.com/Yolandita13/Challenge-E-commerce.git",
+        "price" :"35.00",
+        "descripcion":"tallas disponibles S,M,L",
+        "id": 14
+        },
+        {
+        "name": "SONY",
+        "imageUrl": " https://github.com/Yolandita13/Challenge-E-commerce.git",
+        "price" : "50.00",
+        "descripcion": "Mide 35 cms de pasta articulaciones moviles",
+        "id": 15
+        },
+        {
+        "name": "Radio",
+        "imageUrl": "https://github.com/Yolandita13/Challenge-E-commerce.git",
+        "price" : "30.00",
+        "descripcion":"disponible en color rosado",
+        "id": 16
+        },
+        {
+        "name": "Accesorio",
+        "imageUrl": "https://github.com/Yolandita13/Challenge-E-commerce.git",
+        "price" : "120.00",
+        "descripcion":"Gafas en 3D para viseo juegos",
+        "id": 17
+        },
+        {
+        "name": "Difraz",
+        "imageUrl": "https://github.com/Yolandita13/Challenge-E-commerce.git",
+        "price": "60.00",
+        "descripcion": "Difraz de Pikachu talla unica",
+        "id": 18
+        }
+    ]
